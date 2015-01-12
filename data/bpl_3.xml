@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>3</id>
+  <lang></lang>
+  <title>banner-home</title>
+  <form>sequential</form>
+  <width>1200</width>
+  <height>300</height>
+  <banners>
+    <banners_item>
+      <id>17</id>
+      <title>Du lịch Sapa</title>
+      <clid>0</clid>
+      <file_name>sapa7.jpg</file_name>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>956</file_width>
+      <file_height>291</file_height>
+      <file_alt></file_alt>
+      <file_click>http://levietpro.com</file_click>
+    </banners_item>
+    <banners_item>
+      <id>16</id>
+      <title>Du lịch Hạ Long</title>
+      <clid>0</clid>
+      <file_name>banner-02-1080x349.jpg</file_name>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>1080</file_width>
+      <file_height>349</file_height>
+      <file_alt></file_alt>
+      <file_click>http://levietpro.com</file_click>
+    </banners_item>
+    <banners_item>
+      <id>15</id>
+      <title>Du lịch Đà Nẵng</title>
+      <clid>0</clid>
+      <file_name>da-nang-giau-dep-van-minh-87e29.jpg</file_name>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>1200</file_width>
+      <file_height>559</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+    </banners_item>
+    <banners_item>
+      <id>14</id>
+      <title>Du lịch biển</title>
+      <clid>0</clid>
+      <file_name>banner7.png</file_name>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>1200</file_width>
+      <file_height>241</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+    </banners_item>
+    <banners_item>
+      <id>13</id>
+      <title>Du lịch Phú Quốc</title>
+      <clid>0</clid>
+      <file_name>banner-salinda-2-07.png</file_name>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>1200</file_width>
+      <file_height>267</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+    </banners_item>
+    <banners_item>
+      <id>12</id>
+      <title>Du lịch châu Âu</title>
+      <clid>0</clid>
+      <file_name>banner-du-lich-chau-au_itour-travel.jpg</file_name>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>1200</file_width>
+      <file_height>356</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+    </banners_item>
+  </banners>
+</plan>

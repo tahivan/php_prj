@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>2</id>
+  <lang></lang>
+  <title>Slide home</title>
+  <form>sequential</form>
+  <width>750</width>
+  <height>350</height>
+  <banners>
+    <banners_item>
+      <id>20</id>
+      <title>Du lịch Vòng quanh thế giới</title>
+      <clid>0</clid>
+      <file_name>images_1.jpg</file_name>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>1280</file_width>
+      <file_height>600</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+    </banners_item>
+    <banners_item>
+      <id>19</id>
+      <title>Du lịch biển</title>
+      <clid>0</clid>
+      <file_name>1342955525du-lich-bai-bien.jpg</file_name>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>956</file_width>
+      <file_height>370</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+    </banners_item>
+    <banners_item>
+      <id>18</id>
+      <title>Du lịch Nhật Bản</title>
+      <clid>0</clid>
+      <file_name>banner_2.jpg</file_name>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>1000</file_width>
+      <file_height>360</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+    </banners_item>
+    <banners_item>
+      <id>7</id>
+      <title>test</title>
+      <clid>0</clid>
+      <file_name>banner.jpg</file_name>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>958</file_width>
+      <file_height>369</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+    </banners_item>
+  </banners>
+</plan>

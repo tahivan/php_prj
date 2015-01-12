@@ -1,0 +1,25 @@
+﻿
+
+*{ margin:0; padding:0; border:none; outline:none;}
+.hSohaEmbed_mgl18{ margin-right:8px}
+.hSohaEmbed_rowsprite{ background:url(http://b5.channelvn.net/Images/Embed/row.gif) no-repeat}
+
+.hSohaEmbed_box-soha{ font-size:12px; font-weight:normal; font-family:Arial; float:left; width:600px; background:#fff;  -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; position:relative; z-index:999;}
+.hSohaEmbed_box-shtt{ font-size:15px; font-weight:bold; margin:5px 0px 0px; float:left}
+a.hSohaEmbed_box-shtt p{ text-decoration:none; color:#333333; margin:4px 0px 0px 5px; float:left}
+
+.hSohaEmbed_box-sohact{ list-style:none; float:left; width: 600px; margin: 16px 0px 0px 0; padding:0 0 10px 0}
+.hSohaEmbed_box-sohact img{ width:187px; height:120px; border:1px solid #d9d9d9; padding:3px; float:left; margin-right:11px; overflow: hidden;}
+.hSohaEmbed_box-sohact a { text-decoration:none}
+.hSohaEmbed_box-sohact a p{color:#333333; font-size:13px; margin-top:10px; float:left }
+.hSohaEmbed_box-sohact li{ width:192px; float:left; padding-bottom:5px}
+.hSohaEmbed_box-sohact a p:hover{ color:#007f74}
+
+.hSohaEmbed_prebt,
+.hSohaEmbed_nextbt{background:url(http://soha.vn/Images/Embed/row.gif) no-repeat;}
+.hSohaEmbed_boxsh-row{ width:147px; float:right; margin:0px 5px 0px 0px}
+.hSohaEmbed_prebt{ background-position:0px 0px; width:29px; height:29px; display:block; float:left}
+a.hSohaEmbed_prebt:hover, .hSohaEmbed_prebt-active{ background:url(http://soha.vn/Images/Embed/row.gif) no-repeat; background-position:0px -29px; width:29px; height:29px; display:block}
+a.hSohaEmbed_nextbt:hover, .hSohaEmbed_nextbt-active{background:url(http://soha.vn/Images/Embed/row.gif) no-repeat; background-position:-29px 0px; width:28px; height:29px; display:block; float:left}
+.hSohaEmbed_nextbt { background-position:-29px -29px; width:28px; height:29px; display:block; float:left}
+.hSohaEmbed_boxsh-row p{ font-size:13px; color:#333333; margin-right:20px; float:left; line-height:28px; width:70px;}

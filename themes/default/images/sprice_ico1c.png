@@ -1,0 +1,1094 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>TIN CÔNG NGHỆ - Cổng vào thế giới công nghệ</title>
+<meta  http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta  http-equiv="content-language" content="vi" />
+<meta  name="keywords" content="công nghệ" />
+<meta  name="description" content="Cổng vào thế giới công nghệ" />
+<meta  name="language" content="vietnamese" />
+<meta  name="author" content="TIN CÔNG NGHỆ" />
+<meta  name="copyright" content="TIN CÔNG NGHỆ [khanhthanhtdbd@gmail.com]" />
+<meta  name="robots" content="index, archive, follow, noodp" />
+<meta  name="googlebot" content="index,archive,follow,noodp" />
+<meta  name="msnbot" content="all,index,follow" />
+<meta  name="generator" content="NukeViet v3.x" />
+<meta  name="mywebid" content="NUKE-VIET-8284" />
+<link rel="icon" href="../../favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortcut icon" href="../../favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" href="../../vi/news/rss/default.htm" title="Tin Tức" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/CNTT-trong-nuoc/default.htm" title="Tin Tức - CNTT trong nước" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/CNTT-quoc-te/default.htm" title="Tin Tức - CNTT quốc tế" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Bao-mat-Hacker/default.htm" title="Tin Tức - Bảo mật, Hacker" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Virus-Spyware/default.htm" title="Tin Tức - Virus, Spyware" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Phan-mem/default.htm" title="Tin Tức - Phần mềm" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Unix-Linux-Nguon-Mo/default.htm" title="Tin Tức - Unix, Linux, Nguồn Mở" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Hoc-va-Hanh-IT/default.htm" title="Tin Tức - Học và Hành IT" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Cau-chuyen-cong-nghe/default.htm" title="Tin Tức - Câu chuyện công nghệ" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Mang-Internet/default.htm" title="Tin Tức - Mạng, Internet" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Game/default.htm" title="Tin Tức - Game" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/The-gioi-web/default.htm" title="Tin Tức - Thế giới web" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Kien-thuc-cong-nghe/default.htm" title="Tin Tức - Kiến thức, công nghệ" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Thu-thuat/default.htm" title="Tin Tức - Thủ thuật" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/May-tinh-xach-tay/default.htm" title="Tin Tức - Máy tính xách tay" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Kien-thuc-co-ban/default.htm" title="Tin Tức - Kiến thức cơ bản" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/San-pham-so/default.htm" title="Tin Tức - Sản phẩm số" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Tin-khuyen-mai/default.htm" title="Tin Tức - Tin khuyến mãi" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Cong-nghe-qua-anh/default.htm" title="Tin Tức - Công nghệ qua ảnh" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Tin-hoc-van-phong/default.htm" title="Tin Tức - Tin học văn phòng" type="application/rss+xml" />
+<link rel="alternate" href="../../vi/news/rss/Dien-thoai/default.htm" title="Tin Tức - Điện thoại" type="application/rss+xml" />
+<link rel="Stylesheet" href="../../files/css/0efe22433c1c8e908df430e992e41355.opt.css" type="text/css" />
+<style type="text/css">.other_blocknews{padding:5px}.other_blocknews ul li{background:#FFF;padding:5px}.other_blocknews ul li img{padding:2px;border:1px solid #F7F7F7;width:60px;float:left;margin-right:4px}.other_blocknews ul li.bg{background:#F3F3F3}.other_blocknews{padding:5px}.other_blocknews ul li{background:#FFF;padding:5px}.other_blocknews ul li img{padding:2px;border:1px solid #F7F7F7;width:60px;float:left;margin-right:4px}.other_blocknews ul li.bg{background:#F3F3F3}</style>
+<script type="text/javascript" src="../../js/jquery/jquery.min.js"></script>
+        
+<script type="text/javascript" src="../../js/language/vi.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+var nv_siteroot = '../../';
+var nv_sitelang = 'vi';
+var nv_name_variable = 'nv';
+var nv_fc_variable = 'op';
+var nv_lang_variable = 'language';
+var nv_module_name = 'news';
+var nv_my_ofs = 7;
+var nv_my_abbr = 'ICT';
+var nv_cookie_prefix = 'nv3c_Zhzul';
+var nv_area_admin = 0;
+//]]>
+</script>
+<script type="text/javascript" src="../../js/global.js"></script>
+<script type="text/javascript" src="../../modules/news/js/user.js"></script>
+<script type="text/javascript" src="js/jquery-outside.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<!--ipt type="text/javascript">
+//<![CDATA[
+var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-24003956-1"]);_gaq.push(["_trackPageview"]);(function(){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();
+//]]>
+</scri-->
+</head>
+<body>
+<a name="top"></a>
+<div id="container">
+<div id="header">
+<div class="head">  
+<div class="top1">   
+<div class="left">
+<a href="../../default.htm" title="VB Logo 2011"><img  src="images/logo.gif" alt="VB Logo 2011" border="0" /></a>
+</div>  
+<div class="right">
+<div style="margin-top: 2px;">
+<a href="../../index.php@language=vi&nv=banners&op=click&id=16" onclick="this.target='_blank'" title="Quảng cao">
+<img  alt="Quảng cao" style="border-width:0px" src="../../uploads/banners/banner3_1.jpg" width="720" height="80" />
+</a>
+</div>
+</div>  </div>  </div> 
+<div id="mainmenu">  
+<div class="top2">   
+<ul class="menumain clearfix"> 
+<li class="item1"> 
+<h1><a href="../../default.htm"> <span>Trang chính<span class="vnhome">CNTT</span> </span> </a></h1>
+</li> 
+<li ><a title="Giới thiệu" href="../../vi/about/default.htm"> <span>Giới thiệu</span></a>    
+<div class="childcontent" style="display:none;">    
+<div class="childin">
+</div></div></li> 
+<li  class="active item2"><a title="Tin Tức" href="../../vi/news/default.htm"> <span>Tin Tức</span></a>    
+<div class="childcontent" style="display:none;">    
+<div class="childin">
+</div></div></li> 
+<li ><a title="Tải file" href="../../vi/download/default.htm"> <span>Tải file</span></a>    
+<div class="childcontent" style="display:none;">    
+<div class="childin">
+<ul class="listsub clearfix">
+<li><a title="Theme Nukeviet 3.1" href="../../vi/download/Theme-Nukeviet-31/default.htm">Theme Nukeviet 3.1</a></li>
+<li><a title="Hệ thống" href="../../vi/download/He-thong/default.htm">Hệ thống</a></li>
+<li><a title="Diệt Virus – Spywar" href="../../vi/download/Diet-Virus-Spywar/default.htm">Diệt Virus – Spywar</a></li>
+<li><a title="Phần mềm văn phòng" href="../../vi/download/Phan-mem-van-phong/default.htm">Phần mềm văn phòng</a></li>
+<li><a title="Internet - Mail" href="../../vi/download/Internet-Mail/default.htm">Internet - Mail</a></li>
+<li><a title="Audio - Video" href="../../vi/download/Audio-Video/default.htm">Audio - Video</a></li>
+</ul>   
+</div></div></li> 
+<li ><a title="Shops" href="../../vi/shops/default.htm"> <span>Shops</span></a>    
+<div class="childcontent" style="display:none;">    
+<div class="childin">
+<ul class="listsub clearfix">
+<li><a title="Theme nukeviet" href="../../vi/shops/Theme-nukeviet/default.htm">Theme nukeviet</a></li>
+</ul>   
+</div></div></li> 
+<li ><a title="Liên kết site" href="../../vi/weblinks/default.htm"> <span>Liên kết site</span></a>    
+<div class="childcontent" style="display:none;">    
+<div class="childin">
+<ul class="listsub clearfix">
+<li><a title="Tin công nghệ" href="../../vi/weblinks/Tin-cong-nghe/default.htm">Tin công nghệ</a></li>
+</ul>   
+</div></div></li> 
+<li ><a title="Thành viên" href="../../vi/users/default.htm"> <span>Thành viên</span></a>    
+<div class="childcontent" style="display:none;">    
+<div class="childin">
+<ul class="listsub clearfix">
+<li><a title="Đăng nhập" href="../../vi/users/login/default.htm">Đăng nhập</a></li>
+<li><a title="Đăng ký" href="../../vi/users/register/default.htm">Đăng ký</a></li>
+<li><a title="Quên mật khẩu" href="../../vi/users/lostpass/default.htm">Quên mật khẩu</a></li>
+</ul>   
+</div></div></li> 
+<li ><a title="Liên hệ" href="../../vi/contact/default.htm"> <span>Liên hệ</span></a>    
+<div class="childcontent" style="display:none;">    
+<div class="childin">
+</div></div></li> 
+<li ><a title="Thống kê" href="../../vi/statistics/default.htm"> <span>Thống kê</span></a>    
+<div class="childcontent" style="display:none;">    
+<div class="childin">
+<ul class="listsub clearfix">
+<li><a title="Theo đường dẫn đến site" href="../../vi/statistics/allreferers/default.htm">Theo đường dẫn đến site</a></li>
+<li><a title="Theo quốc gia" href="../../vi/statistics/allcountries/default.htm">Theo quốc gia</a></li>
+<li><a title="Theo trình duyệt" href="../../vi/statistics/allbrowsers/default.htm">Theo trình duyệt</a></li>
+<li><a title="Theo hệ điều hành" href="../../vi/statistics/allos/default.htm">Theo hệ điều hành</a></li>
+<li><a title="Máy chủ tìm kiếm" href="../../vi/statistics/allbots/default.htm">Máy chủ tìm kiếm</a></li>
+</ul>   
+</div></div></li> 
+<li ><a title="Tìm kiếm" href="../../vi/search/default.htm"> <span>Tìm kiếm</span></a>    
+<div class="childcontent" style="display:none;">    
+<div class="childin">
+</div></div></li> 
+<li ><a title="Rss" href="../../vi/rss/default.htm"> <span>Rss</span></a>    
+<div class="childcontent" style="display:none;">    
+<div class="childin">
+</div></div></li> 
+</ul>  </div> </div>  
+<div id="submenu"> 
+<div class="sub_mnt clearfix">   
+<div class="left">   
+<ul>  
+<li class="phome"><a href="#">Đặt làm trang chủ</a></li>
+<li class="ct"><a href="../../vi/contact/default.htm">Liên hệ</a></li>
+<li class="vbrss"><a href="default.htm">Tin công nghệ RSS</a></li>   
+<li class="phome"><a href="../../../thanhcntt.tk/default.htm" target="_blank">SHOP thanhcntt.tk</a></li>
+</ul></div>      
+<div class="righthome weather-wap"> 
+</div></div></div> 
+</div> 
+<div id="partb"> 
+<div id="ct">            
+<div class="contentwrapper">
+<div class="clearfix toppage">   
+<div class="topleft">  
+<div class="b_newt clearfix">  
+<div class="left">   
+<div id="list_items">  
+<div style="display: block;" class="dw_show" id="dw_show1">
+<div class="borders">     
+<div class="image">
+<a href="../../vi/news/Mang-Internet/Chrome-11-giup-nguoi-dung-noi-chuyen-voi-PC-1657/default.htm">
+<img  src="../../uploads/news/2011_03/Chrome 11.jpg" alt="" width="390" height="270" />
+</a>
+</div>
+<div class="infor clearfix" id="slide1">
+<span class="yelow">Tin mới</span>
+<div class="title">
+<a href="../../vi/news/Mang-Internet/Chrome-11-giup-nguoi-dung-noi-chuyen-voi-PC-1657/default.htm">Chrome 11 giúp người dùng nói chuyện với PC</a> 
+</div>
+<div class="textnd">Khi Firefox vừa kịp tiến đến gần, Google đã lại tăng tốc và cho các đối thủ khác...</div>
+</div>
+<div class="btnclose">
+<a href="javascript:" class="linkslide1">Ðóng</a>
+</div>
+</div></div>
+<div class="dw_show" id="dw_show2" style="display: none;">
+<div class="borders">
+<div class="image">
+<a href="../../vi/news/San-pham-so/Samsung-Galaxy-89-chinh-thuc-ra-mat-1656/default.htm"><img  src="../../uploads/news/2011_03/Hinh-ngoai-Samsung-Galaxy_300.jpg" alt="" width="390" height="270" /></a>
+</div>      
+<div class="infor clearfix" id="slide1">     
+<span class="yelow">Tin mới</span>     
+<div class="title">
+<a href="../../vi/news/San-pham-so/Samsung-Galaxy-89-chinh-thuc-ra-mat-1656/default.htm">Samsung Galaxy 8.9 chính thức ra mắt</a>
+</div>     
+<div class="textnd">Samsung vừa chính thức bóc hộp chiếc máy tính bảng Galaxy 8.9 và những thoả mãn...</div>     
+</div>     
+<div class="btnclose">     
+<a href="javascript:" class="linkslide1">Ðóng</a>     
+</div>     
+</div>     </div>
+<div class="dw_show" id="dw_show3" style="display: none;">    
+<div class="borders">     
+<div class="image">
+<a href="../../vi/news/Phan-mem/BleachBit-Portable-Xoa-bo-cac-file-tam-cua-hon-70-ung-dung-trong-Windows-1655/default.htm"><img  src="../../uploads/news/2011_03/bleachbit-full-ml-portable-1.jpg" alt="" width="390" height="270" /></a>
+</div>     
+<div class="infor clearfix" id="slide1">      
+<span class="yelow">Tin mới</span>  
+<div class="title"> 
+<a href="../../vi/news/Phan-mem/BleachBit-Portable-Xoa-bo-cac-file-tam-cua-hon-70-ung-dung-trong-Windows-1655/default.htm">BleachBit Portable&#x3A; Xóa bỏ các file tạm của hơn 70 ứng dụng trong Windows</a> 
+</div>     
+<div class="textnd">Có rất nhiều tiện ích giúp bạn dọn dẹp các file tạm, phổ biến hiện nay như...</div>      
+</div>      
+<div class="btnclose">      
+<a href="javascript:" class="linkslide1">Ðóng</a>     
+</div>     </div>     </div>
+<div class="dw_show" id="dw_show4" style="display: none;">    
+<div class="borders">     
+<div class="image">
+<a href="../../vi/news/Thu-thuat/Dong-bo-hoa-thu-muc-nhieu-may-tinh-voi-o-dia-flash-USB-1654/default.htm"><img  src="../../uploads/news/2011_03/image00.png" alt="" width="390" height="270" /></a>
+</div>     
+<div class="infor clearfix" id="slide1">      
+<span class="yelow">Tin mới</span>  
+<div class="title"> 
+<a href="../../vi/news/Thu-thuat/Dong-bo-hoa-thu-muc-nhieu-may-tinh-voi-o-dia-flash-USB-1654/default.htm">Đồng bộ hóa thư mục nhiều máy tính với ổ đĩa flash USB</a> 
+</div>     
+<div class="textnd">Vấn đề lớn đối với việc quản lý nhiều máy tính là việc lưu trữ các dữ liệu trong...</div>      
+</div>      
+<div class="btnclose">      
+<a href="javascript:" class="linkslide1">Ðóng</a>     
+</div>     </div>     </div>
+<div class="dw_show" id="dw_show5" style="display: none;">    
+<div class="borders">     
+<div class="image">
+<a href="../../vi/news/Kien-thuc-cong-nghe/Giai-dau-the-thao-dien-tu-truc-tuyen-lon-nhat-Viet-Nam-1653/default.htm"><img  src="../../uploads/news/2011_03/300_asus_rog.jpg" alt="" width="390" height="270" /></a>
+</div>     
+<div class="infor clearfix" id="slide1">      
+<span class="yelow">Tin mới</span>  
+<div class="title"> 
+<a href="../../vi/news/Kien-thuc-cong-nghe/Giai-dau-the-thao-dien-tu-truc-tuyen-lon-nhat-Viet-Nam-1653/default.htm">Giải đấu thể thao điện tử trực tuyến lớn nhất Việt Nam</a> 
+</div>     
+<div class="textnd">Asus ROG Championship - giải đấu Thể thao điện tử trực tuyến lớn nhất Việt Nam...</div>      
+</div>      
+<div class="btnclose">      
+<a href="javascript:" class="linkslide1">Ðóng</a>     
+</div>     </div>     </div>
+<div class="dw_show" id="dw_show6" style="display: none;">    
+<div class="borders">     
+<div class="image">
+<a href="../../vi/news/Cau-chuyen-cong-nghe/Ai-da-thua-trong-vu-ATT-mua-T-Mobile-1652/default.htm"><img  src="../../uploads/news/2011_03/T-Mobile.jpg" alt="" width="390" height="270" /></a>
+</div>     
+<div class="infor clearfix" id="slide1">      
+<span class="yelow">Tin mới</span>  
+<div class="title"> 
+<a href="../../vi/news/Cau-chuyen-cong-nghe/Ai-da-thua-trong-vu-ATT-mua-T-Mobile-1652/default.htm">Ai đã “thua” trong vụ AT&amp;T mua T-Mobile?</a> 
+</div>     
+<div class="textnd">Thị trường viễn thông Mỹ đột nhiên “mất tích” một hãng lớn nhưng vụ sáp nhập...</div>      
+</div>      
+<div class="btnclose">      
+<a href="javascript:" class="linkslide1">Ðóng</a>     
+</div>     </div>     </div> 
+</div>   
+<div class="pages">  
+<strong>Xem tin</strong>   
+<div id="pages"> 
+<a href="javascript:" id="here1" class="active" onmouseover="change_slide(1)">1</a>    
+<a class="" href="javascript:" id="here2" onmouseover="change_slide(2)">2</a>   
+<a class="" href="javascript:" id="here3" onmouseover="change_slide(3)">3</a>   
+<a class="" href="javascript:" id="here4" onmouseover="change_slide(4)">4</a>  
+<a class="" href="javascript:" id="here5" onmouseover="change_slide(5)">5</a>   
+<a class="" href="javascript:" id="here6" onmouseover="change_slide(6)">6</a>   
+</div>
+<ul class="btnlink"> 
+<li><a href="javascript:" id="prev" class="pre active">&nbsp;</a></li>  
+<li><a href="javascript:" id="stop_slide" class="stop">&nbsp;</a></li>  
+<li class="active"><a href="javascript:" id="next" class="next">&nbsp;</a></li>   
+</ul>        </div>    </div>   
+<div class="right">    
+<div class="b_newr">  
+<div class="tab clearfix" id="tab_click">     
+<a href="javascript:" class="active" onmousemove="change_tab('1')" rel="1">
+<span>Mới</span></a>     
+<a class="" href="javascript:" onmousemove="change_tab('2')" rel="2">
+<span>Đọc Nhiều Nhất</span></a>     
+<a href="javascript:" class="" onmousemove="change_tab('3')" rel="3">
+<span>Nóng</span></a>     
+</div>  
+<ul style="display: block;" class="subtab" id="tab1"> 
+<li class="last"><a href="../../vi/news/Mang-Internet/Chrome-11-giup-nguoi-dung-noi-chuyen-voi-PC-1657/default.htm">Chrome 11 giúp người dùng nói chuyện với PC</a></li> 
+<li class="last"><a href="../../vi/news/San-pham-so/Samsung-Galaxy-89-chinh-thuc-ra-mat-1656/default.htm">Samsung Galaxy 8.9 chính thức ra mắt</a></li> 
+<li class="last"><a href="../../vi/news/Phan-mem/BleachBit-Portable-Xoa-bo-cac-file-tam-cua-hon-70-ung-dung-trong-Windows-1655/default.htm">BleachBit Portable&#x3A; Xóa bỏ các file tạm của hơn 70 ứng dụng trong Windows</a></li> 
+<li class="last"><a href="../../vi/news/Thu-thuat/Dong-bo-hoa-thu-muc-nhieu-may-tinh-voi-o-dia-flash-USB-1654/default.htm">Đồng bộ hóa thư mục nhiều máy tính với ổ đĩa flash USB</a></li> 
+<li class="last"><a href="../../vi/news/Kien-thuc-cong-nghe/Giai-dau-the-thao-dien-tu-truc-tuyen-lon-nhat-Viet-Nam-1653/default.htm">Giải đấu thể thao điện tử trực tuyến lớn nhất Việt Nam</a></li> 
+<li class="last"><a href="../../vi/news/Cau-chuyen-cong-nghe/Ai-da-thua-trong-vu-ATT-mua-T-Mobile-1652/default.htm">Ai đã “thua” trong vụ AT&amp;T mua T-Mobile?</a></li>
+<li class="last"><a href="../../vi/news/Thu-thuat/Giau-cac-phan-vung-o-dia-trong-Windows-1651/default.htm">Giấu các phân vùng ổ đĩa trong Windows</a></li> 
+</ul> 
+<ul class="subtab" id="tab2" style="display: none;"> 
+<li class="last"><a href="../../vi/news/Mang-Internet/Ban-phim-ao-cho-trinh-duyet-thong-dung-1641/default.htm">Bàn phím ảo cho trình duyệt thông dụng</a></li>
+<li class="last"><a href="../../vi/news/Phan-mem/Vua-nghe-nhac-vua-xem-loi-bai-hat-voi-jetAudio-8-1642/default.htm">Vừa nghe nhạc, vừa xem lời bài hát với jetAudio 8</a></li>
+<li class="last"><a href="../../vi/news/San-pham-so/O-luu-tru-Flash-bao-mat-1643/default.htm">Ổ lưu trữ Flash bảo mật</a></li>
+<li class="last"><a href="../../vi/news/Mang-Internet/Opera-ra-mat-hai-trinh-duyet-di-dong-moi-1644/default.htm">Opera ra mắt hai trình duyệt di động mới</a></li>
+<li class="last"><a href="../../vi/news/Bao-mat-Hacker/Norton-360-v50-co-mat-tai-Viet-Nam-1645/default.htm">Norton 360 v5.0 có mặt tại Việt Nam</a></li>
+<li class="last"><a href="../../vi/news/May-tinh-xach-tay/10-laptop-ban-chay-thang-22011-1646/default.htm">10 laptop bán chạy tháng 2&#x002F;2011</a></li> 
+</ul>  
+<ul class="subtab" id="tab3" style="display: none;">
+<li class="last"><a href="../../vi/news/Tin-hoc-van-phong/Back-up-tai-khoan-Web-E-Mail-1650/default.htm">Back up tài khoản Web E-Mail</a></li>
+<li class="last"><a href="../../vi/news/Thu-thuat/Giau-cac-phan-vung-o-dia-trong-Windows-1651/default.htm">Giấu các phân vùng ổ đĩa trong Windows</a></li>
+<li class="last"><a href="../../vi/news/Cau-chuyen-cong-nghe/Ai-da-thua-trong-vu-ATT-mua-T-Mobile-1652/default.htm">Ai đã “thua” trong vụ AT&amp;T mua T-Mobile?</a></li>
+<li class="last"><a href="../../vi/news/Kien-thuc-cong-nghe/Giai-dau-the-thao-dien-tu-truc-tuyen-lon-nhat-Viet-Nam-1653/default.htm">Giải đấu thể thao điện tử trực tuyến lớn nhất Việt Nam</a></li>
+<li class="last"><a href="../../vi/news/Thu-thuat/Dong-bo-hoa-thu-muc-nhieu-may-tinh-voi-o-dia-flash-USB-1654/default.htm">Đồng bộ hóa thư mục nhiều máy tính với ổ đĩa flash USB</a></li>
+<li class="last"><a href="../../vi/news/Phan-mem/BleachBit-Portable-Xoa-bo-cac-file-tam-cua-hon-70-ung-dung-trong-Windows-1655/default.htm">BleachBit Portable&#x3A; Xóa bỏ các file tạm của hơn 70 ứng dụng trong Windows</a></li>   
+</ul>    
+<div class="br_searchh clearfix">
+<form method="get" action="/" onsubmit="return nv_search_submit('topmenu_search_query', 'topmenu_search_checkss', 'topmenu_search_submit', 3, 60);"><input  type="hidden" id="topmenu_search_checkss" value="" />
+<div class="b_search"><div class="left1">
+<input  name="topmenu_search_query" id="topmenu_search_query" maxlength="60" value="Tìm kiếm" type="text" /></div><div class="right1"> <input  name="topmenu_search_submit" id="topmenu_search_submit" onclick="nv_search_submit('topmenu_search_query', 'topmenu_search_checkss', 'topmenu_search_submit', 3, 60);" class="timkiem" value="" type="submit" />
+</div></div></form></div>
+</div></div></div>   
+<div class="snew clearfix">   
+<div class="dw161 marginr">  	    
+<div class="image">      
+<a href="../../vi/news/Mang-Internet/Han-Quoc-nhuc-nhoi-vi-game-online-303/default.htm" title="Hàn Quốc “nhức nhối” vì game online">
+<img  src="../../files/news/2010_03/thumb_1267932922.nv.jpg" alt="Hàn Quốc “nhức nhối” vì game online" width="161px" height="113px" />
+</a>     
+<div>
+<a href="../../vi/news/Mang-Internet/Han-Quoc-nhuc-nhoi-vi-game-online-303/default.htm">Hàn Quốc “nhức nhối” vì game online</a>
+</div></div>   </div>  
+<div class="dw161 marginr">  	    
+<div class="image">      
+<a href="../../vi/news/Thu-thuat/Bao-ve-du-lieu-tren-USB-de-phong-mat-cap-666/default.htm" title="Bảo vệ dữ liệu trên USB đề phòng mất cắp">
+<img  src="../../files/news/2010_05/thumb_1273248909.nv.jpg" alt="Bảo vệ dữ liệu trên USB đề phòng mất cắp" width="161px" height="113px" />
+</a>     
+<div>
+<a href="../../vi/news/Thu-thuat/Bao-ve-du-lieu-tren-USB-de-phong-mat-cap-666/default.htm">Bảo vệ dữ liệu trên USB đề phòng mất cắp</a>
+</div></div>   </div>  
+<div class="dw161 marginr">  	    
+<div class="image">      
+<a href="../../vi/news/Phan-mem/Chay-muot-ma-cac-phan-mem-doi-hoi-cau-hinh-cao-1512/default.htm" title="Chạy mượt mà các phần mềm đòi hỏi cấu hình cao">
+<img  src="../../files/news/thumb/gboost-3.jpg" alt="Chạy mượt mà các phần mềm đòi hỏi cấu hình cao" width="161px" height="113px" />
+</a>     
+<div>
+<a href="../../vi/news/Phan-mem/Chay-muot-ma-cac-phan-mem-doi-hoi-cau-hinh-cao-1512/default.htm">Chạy mượt mà các phần mềm đòi hỏi cấu hình cao</a>
+</div></div>   </div>  
+<div class="dw161 marginr">  	    
+<div class="image">      
+<a href="../../vi/news/Bao-mat-Hacker/Ban-cap-nhat-thang-4-cua-Microsoft-bao-gom-11-mieng-va-515/default.htm" title="Bản cập nhật tháng 4 của Microsoft bao gồm 11 miếng vá">
+<img  src="../../files/news/2010_04/thumb_1271391457.nv.jpg" alt="Bản cập nhật tháng 4 của Microsoft bao gồm 11 miếng vá" width="161px" height="113px" />
+</a>     
+<div>
+<a href="../../vi/news/Bao-mat-Hacker/Ban-cap-nhat-thang-4-cua-Microsoft-bao-gom-11-mieng-va-515/default.htm">Bản cập nhật tháng 4 của Microsoft bao gồm 11 miếng vá</a>
+</div></div>   </div>  
+</div></div>      	
+<div class="topright">  
+<div class="video">     
+<a href="#" title="">
+<img  src="images/thegioi.jpeg" alt="" width="300" height="220" /></a> 
+</div>    
+<div class="aver">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="../../../download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="300" height="120"> 
+<param name="movie" value="images/banner_thoitiet.swf"> <param name="quality" value="high"> <param name="wmode" value="opaque"> 
+<embed src="images/banner_thoitiet.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent" width="300" height="120"> 
+</object> 
+</div>
+<div class="aver">
+<embed src="images/atm_300x120.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="300" height="120"> 
+</div></div></div><br>  		
+<div class="span-13 contentcolumn">
+<div class="section_04">
+<div class="section_title dark_gray clearfix">
+<div class="tabs_left arrow_ltr_dark_gray"><a href="../../vi/news/CNTT-trong-nuoc/default.htm" title="CNTT trong nước">CNTT trong nước</a></div>
+<div class="tabs_right arrow_rtl_dark_gray"><a href="../../vi/news/CNTT-quoc-te/default.htm" title="CNTT quốc tế">CNTT quốc tế</a></div>
+</div>
+<div class="section_data_left">
+<div class="section_data_right">
+<ul class="list_news clearfix">
+<li>
+<div class="news_special clearfix">
+<div class="news_title"><a href="../../vi/news/CNTT-trong-nuoc/Nhan-luc-CNTT-se-nhieu-nhu-nam-sau-mua-1648/default.htm" class="mainBodyHeaderA">Nhân lực CNTT sẽ nhiều như &#039;nấm sau mưa&#039; ?</a></div>    
+<div class="news_info">
+<div class="news_image"><a href="../../vi/news/CNTT-trong-nuoc/Nhan-luc-CNTT-se-nhieu-nhu-nam-sau-mua-1648/default.htm" class="mainBodyHeaderA"><img  class="img01 drop-shadow" src="../../files/news/thumb/enterprise-it.jpg" alt="Nhân lực CNTT sẽ nhiều như &#039;nấm sau mưa&#039; ?" align="left" border="0" vspace="2" width="116" hspace="4" /></a></div>
+<div class="news_detail">Hàng loạt các biện pháp, đề xuất đã được bàn thảo và đi đến thống nhất thực hiện để Việt Nam sớm trở thành nước mạnh về CNTT ngay từ việc phải có một nguồn nhân lực đáp ứng yêu cầu...</div>
+</div>
+</div>
+<ul class="more">
+<li><a href="../../vi/news/CNTT-trong-nuoc/Lan-dau-tien-Viet-Nam-am-giai-lap-trinh-cua-Facebook-1635/default.htm" class="linkA">Lần đầu tiên Việt Nam “ẵm” giải lập trình của Facebook</a></li>
+<li><a href="../../vi/news/CNTT-trong-nuoc/Kich-ban-nao-cho-mang-di-dong-ao-1601/default.htm" class="linkA">Kịch bản nào cho mạng di động ảo?</a></li>
+<li><a href="../../vi/news/CNTT-trong-nuoc/Tinh-phi-Internet-theo-phut-de-hut-khach-1580/default.htm" class="linkA">Tính phí Internet theo phút để hút khách</a></li>
+</ul></li>
+<li class="last">
+<div class="news_special clearfix">
+<div class="news_title"><a href="../../vi/news/CNTT-quoc-te/Tong-hop-tin-the-gioi-Se-co-chuan-chung-HTML-5-1649/default.htm" class="mainBodyHeaderA">Tổng hợp tin thế giới&#x3A; Sẽ có chuẩn chung HTML 5</a></div>    
+<div class="news_info">
+<div class="news_image"><a href="../../vi/news/CNTT-quoc-te/Tong-hop-tin-the-gioi-Se-co-chuan-chung-HTML-5-1649/default.htm" class="mainBodyHeaderA"><img  class="img01 drop-shadow " src="../../files/news/thumb/html5.jpg" alt="Tổng hợp tin thế giới&#x3A; Sẽ có chuẩn chung HTML 5" align="left" border="0" vspace="2" width="116" hspace="4" /></a></div>
+<div class="news_detail">Diễn tiến các “chuẩn” trên nền web và di động dường như đang dần đi đến hồi chung cuộc khi các “ông lớn” đã có những nước cờ đầy cân nhắc.</div>
+</div>
+</div>
+<ul class="more">
+<li><a href="../../vi/news/CNTT-quoc-te/Mozilla-bat-ngo-tung-ra-Firefox-40-RC2-1634/default.htm" class="linkA">Mozilla bất ngờ tung ra Firefox 4.0 RC2</a></li>
+<li><a href="../../vi/news/CNTT-quoc-te/Bing-gay-duoc-nhieu-chu-y-hon-Google-1604/default.htm" class="linkA">Bing gây được nhiều chú ý hơn Google</a></li>
+<li><a href="../../vi/news/CNTT-quoc-te/Google-cho-phep-tranh-trang-web-khong-mong-muon-1602/default.htm" class="linkA">Google cho phép tránh trang web không mong muốn</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="section_04">
+<div class="section_title dark_gray clearfix">
+<div class="tabs_left arrow_ltr_dark_gray"><a href="../../vi/news/Bao-mat-Hacker/default.htm" title="Bảo mật, Hacker">Bảo mật, Hacker</a></div>
+<div class="tabs_right arrow_rtl_dark_gray"><a href="../../vi/news/Virus-Spyware/default.htm" title="Virus, Spyware">Virus, Spyware</a></div>
+</div>
+<div class="section_data_left">
+<div class="section_data_right">
+<ul class="list_news clearfix">
+<li>
+<div class="news_special clearfix">
+<div class="news_title"><a href="../../vi/news/Bao-mat-Hacker/Bao-ve-thong-tin-vi-tri-nguoi-dung-trong-IE-9-va-Firefox-4-1647/default.htm" class="mainBodyHeaderA">Bảo vệ thông tin vị trí người dùng trong IE 9 và Firefox 4</a></div>    
+<div class="news_info">
+<div class="news_image"><a href="../../vi/news/Bao-mat-Hacker/Bao-ve-thong-tin-vi-tri-nguoi-dung-trong-IE-9-va-Firefox-4-1647/default.htm" class="mainBodyHeaderA"><img  class="img01 drop-shadow" src="../../files/news/thumb/stoptracking__01.jpg" alt="Bảo vệ thông tin vị trí người dùng trong IE 9 và Firefox 4" align="left" border="0" vspace="2" width="116" hspace="4" /></a></div>
+<div class="news_detail">Nếu bạn còn băn khoăn và không hiểu tại sao các website tin tức hoặc các nhà quảng cáo trực tuyến có thể biết được vị trí hiện tại của bạn, thì hãy nâng cấp trình duyệt đang sử...</div>
+</div>
+</div>
+<ul class="more">
+<li><a href="../../vi/news/Bao-mat-Hacker/Norton-360-v50-co-mat-tai-Viet-Nam-1645/default.htm" class="linkA">Norton 360 v5.0 có mặt tại Việt Nam</a></li>
+<li><a href="../../vi/news/Bao-mat-Hacker/Mang-may-tinh-spam-lon-nhat-the-gioi-bi-triet-pha-1633/default.htm" class="linkA">Mạng máy tính spam lớn nhất thế giới bị triệt phá</a></li>
+<li><a href="../../vi/news/Bao-mat-Hacker/Loi-dung-dong-dat-o-Nhat-de-lua-cai-ma-doc-1632/default.htm" class="linkA">Lợi dụng động đất ở Nhật để lừa cài mã độc</a></li>
+</ul></li>
+<li class="last">
+<div class="news_special clearfix">
+<div class="news_title"><a href="../../vi/news/Virus-Spyware/95-tre-em-tim-cach-xem-web-den-1570/default.htm" class="mainBodyHeaderA">95&#x25; trẻ em tìm cách xem “web đen”</a></div>    
+<div class="news_info">
+<div class="news_image"><a href="../../vi/news/Virus-Spyware/95-tre-em-tim-cach-xem-web-den-1570/default.htm" class="mainBodyHeaderA"><img  class="img01 drop-shadow" src="../../files/news/thumb/20110228150246_children.jpg" alt="95&#x25; trẻ em tìm cách xem “web đen”" align="left" border="0" vspace="2" width="116" hspace="4" /></a></div>
+<div class="news_detail">BitDefender cho biết, 95% bậc cha mẹ nhận thấy con cái của họ đã truy cập những nội dung khiêu dâm trên mạng, thường là trong thời gian làm bài tập.</div>
+</div>
+</div>
+<ul class="more">
+<li><a href="../../vi/news/Virus-Spyware/10-nhom-thao-tung-virus-mang-Internet-Trung-Quoc-1557/default.htm" class="linkA">10 nhóm thao túng virus mạng Internet Trung Quốc</a></li>
+<li><a href="../../vi/news/Virus-Spyware/Viet-Nam-thiet-hai-5900-ty-dong-vi-virus-may-tinh-1539/default.htm" class="linkA">Việt Nam thiệt hại 5.900 tỷ đồng vì virus máy tính</a></li>
+<li><a href="../../vi/news/Virus-Spyware/Bao-ve-may-tinh-khoi-nhung-hiem-hoa-tu-Internet-1527/default.htm" class="linkA">Bảo vệ máy tính khỏi những hiểm họa từ Internet</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="section_04">
+<div class="section_title dark_gray clearfix">
+<div class="tabs_left arrow_ltr_dark_gray"><a href="../../vi/news/Phan-mem/default.htm" title="Giới thiệu phần mềm">Giới thiệu phần mềm</a></div>
+<div class="tabs_right arrow_rtl_dark_gray"><a href="../../vi/news/Unix-Linux-Nguon-Mo/default.htm" title="Unix, Linux, Nguồn mở">Unix, Linux, Nguồn mở</a></div>
+</div>
+<div class="section_data_left">
+<div class="section_data_right">
+<ul class="list_news clearfix">
+<li>
+<div class="news_special clearfix">
+<div class="news_title"><a href="../../vi/news/Phan-mem/BleachBit-Portable-Xoa-bo-cac-file-tam-cua-hon-70-ung-dung-trong-Windows-1655/default.htm" class="mainBodyHeaderA">BleachBit Portable&#x3A; Xóa bỏ các file tạm của hơn 70 ứng dụng trong Windows</a></div>    
+<div class="news_info">
+<div class="news_image"><a href="../../vi/news/Phan-mem/BleachBit-Portable-Xoa-bo-cac-file-tam-cua-hon-70-ung-dung-trong-Windows-1655/default.htm" class="mainBodyHeaderA"><img  class="img01 drop-shadow" src="../../files/news/thumb/bleachbit-full-ml-portable-1.jpg" alt="BleachBit Portable&#x3A; Xóa bỏ các file tạm của hơn 70 ứng dụng trong Windows" align="left" border="0" vspace="2" width="116" hspace="4" /></a></div>
+<div class="news_detail">Có rất nhiều tiện ích giúp bạn dọn dẹp các file tạm, phổ biến hiện nay như Ccleaner, Fcleaner…Và Thêm một lựa chọn nữa dành cho người dùng đó chính là BleachBit 0.8, một công cụ...</div>
+</div>
+</div>
+<ul class="more">
+<li><a href="../../vi/news/Phan-mem/Vua-nghe-nhac-vua-xem-loi-bai-hat-voi-jetAudio-8-1642/default.htm" class="linkA">Vừa nghe nhạc, vừa xem lời bài hát với jetAudio 8</a></li>
+<li><a href="../../vi/news/Phan-mem/Mien-phi-mot-nam-sao-luu-va-bao-mat-du-lieu-tu-AVG-LiveKive-1639/default.htm" class="linkA">Miễn phí một năm sao lưu và bảo mật dữ liệu từ AVG LiveKive</a></li>
+<li><a href="../../vi/news/Phan-mem/Toi-uu-va-rut-ngan-thoi-gian-khoi-dong-he-thong-voi-Startup-Faster-1638/default.htm" class="linkA">Tối ưu và rút ngắn thời gian khởi động hệ thống với Startup Faster</a></li>
+</ul></li>
+<li class="last">
+<div class="news_special clearfix">
+<div class="news_title"><a href="../../vi/news/Unix-Linux-Nguon-Mo/Ubuntu-Linux-1104-ruc-rich-ra-mat-voi-bo-canh-moi-Unity-1636/default.htm" class="mainBodyHeaderA">Ubuntu Linux 11.04 rục rịch ra mắt với bộ cánh mới Unity</a></div>    
+<div class="news_info">
+<div class="news_image"><a href="../../vi/news/Unix-Linux-Nguon-Mo/Ubuntu-Linux-1104-ruc-rich-ra-mat-voi-bo-canh-moi-Unity-1636/default.htm" class="mainBodyHeaderA"><img  class="img01 drop-shadow" src="../../files/news/thumb/unity-1.jpg" alt="Ubuntu Linux 11.04 rục rịch ra mắt với bộ cánh mới Unity" align="left" border="0" vspace="2" width="116" hspace="4" /></a></div>
+<div class="news_detail">Mặc dù vẫn chưa phát hành phiên bản cuối cùng nhưng cộng đồng người dùng mã nguồn mở trung thành với hệ điều hành Ubuntu đang lên cơn sốt với quyết định bỏ nền tảng đồ hoạ GNOME để...</div>
+</div>
+</div>
+<ul class="more">
+<li><a href="../../vi/news/Unix-Linux-Nguon-Mo/Phan-mem-ma-nguon-mo-con-dao-hai-luoi-1594/default.htm" class="linkA">Phần mềm mã nguồn mở - con dao hai lưỡi</a></li>
+<li><a href="../../vi/news/Unix-Linux-Nguon-Mo/Cai-dat-LibreOffice-trong-Ubuntu-1587/default.htm" class="linkA">Cài đặt LibreOffice trong Ubuntu</a></li>
+<li><a href="../../vi/news/Unix-Linux-Nguon-Mo/Lam-mo-cac-panel-Gnome-trong-Unbuntu-1565/default.htm" class="linkA">Làm mờ các panel Gnome trong Unbuntu</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="section_04">
+<div class="section_title dark_gray clearfix">
+<div class="tabs_left arrow_ltr_dark_gray"><a href="../../vi/news/Hoc-va-Hanh-IT/default.htm" title="Học và hành IT">Học và hành IT</a></div>
+<div class="tabs_right arrow_rtl_dark_gray"><a href="../../vi/news/Cau-chuyen-cong-nghe/default.htm" title="Câu chuyện công nghệ">Câu chuyện công nghệ</a></div>
+</div>
+<div class="section_data_left">
+<div class="section_data_right">
+<ul class="list_news clearfix">
+<li>
+<div class="news_special clearfix">
+<div class="news_title"><a href="../../vi/news/Hoc-va-Hanh-IT/Se-co-Hiep-hoi-dao-tao-CNTT-quoc-gia-1622/default.htm" class="mainBodyHeaderA">Sẽ có Hiệp hội đào tạo CNTT quốc gia</a></div>    
+<div class="news_info">
+<div class="news_image"><a href="../../vi/news/Hoc-va-Hanh-IT/Se-co-Hiep-hoi-dao-tao-CNTT-quoc-gia-1622/default.htm" class="mainBodyHeaderA"><img  class="img01 drop-shadow" src="../../files/news/thumb/hiephoicntt.jpg" alt="Sẽ có Hiệp hội đào tạo CNTT quốc gia" align="left" border="0" vspace="2" width="116" hspace="4" /></a></div>
+<div class="news_detail">Ý tưởng thành lập hiệp hội đào tạo CNTT quốc gia đã được lãnh đạo Bộ TT&TT và các cơ sở đào tạo ủng hộ. Sáng hôm nay (18/3), Bộ TT&TT đã tổ chức hội nghị với các cơ sở đào tạo CNTT...</div>
+</div>
+</div>
+<ul class="more">
+<li><a href="../../vi/news/Hoc-va-Hanh-IT/Giai-thuong-Sao-Khue-3-nam-moi-trao-1-lan-1589/default.htm" class="linkA">Giải thưởng Sao Khuê 3 năm mới trao 1 lần</a></li>
+<li><a href="../../vi/news/Hoc-va-Hanh-IT/Hai-cong-cu-ho-tro-can-thiet-cho-cac-si-tu-mua-tuyen-sinh-2011-1550/default.htm" class="linkA">Hai công cụ hỗ trợ cần thiết cho các sĩ tử mùa tuyển sinh 2011</a></li>
+<li><a href="../../vi/news/Hoc-va-Hanh-IT/Website-danh-rieng-cho-ky-thuat-vien-tin-hoc-1544/default.htm" class="linkA">Website dành riêng cho kỹ thuật viên tin học</a></li>
+</ul></li>
+<li class="last">
+<div class="news_special clearfix">
+<div class="news_title"><a href="../../vi/news/Cau-chuyen-cong-nghe/Ai-da-thua-trong-vu-ATT-mua-T-Mobile-1652/default.htm" class="mainBodyHeaderA">Ai đã “thua” trong vụ AT&amp;T mua T-Mobile?</a></div>    
+<div class="news_info">
+<div class="news_image"><a href="../../vi/news/Cau-chuyen-cong-nghe/Ai-da-thua-trong-vu-ATT-mua-T-Mobile-1652/default.htm" class="mainBodyHeaderA"><img  class="img01 drop-shadow" src="../../files/news/thumb/t-mobile.jpg" alt="Ai đã “thua” trong vụ AT&amp;T mua T-Mobile?" align="left" border="0" vspace="2" width="116" hspace="4" /></a></div>
+<div class="news_detail">Thị trường viễn thông Mỹ đột nhiên “mất tích” một hãng lớn nhưng vụ sáp nhập giữa AT&T và T-Mobile còn khiến một loạt các hãng “ăn theo” khác hụt hẫng và thiệt hại.</div>
+</div>
+</div>
+<ul class="more">
+<li><a href="../../vi/news/Cau-chuyen-cong-nghe/Internet-rong-lon-den-muc-nao-1590/default.htm" class="linkA">Internet rộng lớn đến mức nào?</a></li>
+<li><a href="../../vi/news/Cau-chuyen-cong-nghe/Bi-mat-thu-vi-ve-mang-xa-hoi-1560/default.htm" class="linkA">Bí mật thú vị về “mạng xã hội”</a></li>
+<li><a href="../../vi/news/Cau-chuyen-cong-nghe/Bi-mat-doi-song-nhan-vien-ban-hang-cua-Apple-1545/default.htm" class="linkA">Bí mật đời sống nhân viên bán hàng của Apple</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="section_04">
+<div class="section_title dark_gray clearfix">
+<div class="tabs_left arrow_ltr_dark_gray"><a href="../../vi/news/Mang-Internet/default.htm" title="Mạng, Internet">Mạng, Internet</a></div>
+<div class="tabs_right arrow_rtl_dark_gray"><a href="../../vi/news/The-gioi-web/default.htm" title="Thế giới web">Thế giới web</a></div>
+</div>
+<div class="section_data_left">
+<div class="section_data_right">
+<ul class="list_news clearfix">
+<li>
+<div class="news_special clearfix">
+<div class="news_title"><a href="../../vi/news/Mang-Internet/Chrome-11-giup-nguoi-dung-noi-chuyen-voi-PC-1657/default.htm" class="mainBodyHeaderA">Chrome 11 giúp người dùng nói chuyện với PC</a></div>    
+<div class="news_info">
+<div class="news_image"><a href="../../vi/news/Mang-Internet/Chrome-11-giup-nguoi-dung-noi-chuyen-voi-PC-1657/default.htm" class="mainBodyHeaderA"><img  class="img01 drop-shadow" src="../../files/news/thumb/chrome_11.jpg" alt="Chrome 11 giúp người dùng nói chuyện với PC" align="left" border="0" vspace="2" width="116" hspace="4" /></a></div>
+<div class="news_detail">Khi Firefox vừa kịp tiến đến gần, Google đã lại tăng tốc và cho các đối thủ khác tiếp tục “ngửi khói” bằng Chrome 11 Beta với khả năng có thể dịch lời nói thành văn bản.</div>
+</div>
+</div>
+<ul class="more">
+<li><a href="../../vi/news/Mang-Internet/Opera-ra-mat-hai-trinh-duyet-di-dong-moi-1644/default.htm" class="linkA">Opera ra mắt hai trình duyệt di động mới</a></li>
+<li><a href="../../vi/news/Mang-Internet/Ban-phim-ao-cho-trinh-duyet-thong-dung-1641/default.htm" class="linkA">Bàn phím ảo cho trình duyệt thông dụng</a></li>
+<li><a href="../../vi/news/Mang-Internet/Tang-toc-Chrome-voi-cac-tinh-nang-moi-1630/default.htm" class="linkA">Tăng tốc Chrome với các tính năng mới</a></li>
+</ul></li>
+<li class="last">
+<div class="news_special clearfix">
+<div class="news_title"><a href="../../vi/news/The-gioi-web/Hien-thi-doan-text-bang-tat-ca-cac-font-tren-may-tinh-cung-luc-1617/default.htm" class="mainBodyHeaderA">Hiển thị đoạn text bằng tất cả các font trên máy tính cùng lúc</a></div>    
+<div class="news_info">
+<div class="news_image"><a href="../../vi/news/The-gioi-web/Hien-thi-doan-text-bang-tat-ca-cac-font-tren-may-tinh-cung-luc-1617/default.htm" class="mainBodyHeaderA"><img  class="img01 drop-shadow" src="../../files/news/thumb/font_book_icon.png" alt="Hiển thị đoạn text bằng tất cả các font trên máy tính cùng lúc" align="left" border="0" vspace="2" width="116" hspace="4" /></a></div>
+<div class="news_detail">Hiện nay trên internet có rất nhiều loại font chữ các loại, riêng trong máy tính của bạn con số này có thể lên đến hàng trăm do đó việc chọn lọc ra một font chữ thích hợp để minh...</div>
+</div>
+</div>
+<ul class="more">
+<li><a href="../../vi/news/The-gioi-web/Cong-thong-tin-truc-tuyen-cho-van-de-Anti-virus-1595/default.htm" class="linkA">Cổng thông tin trực tuyến cho vấn đề Anti-virus</a></li>
+<li><a href="../../vi/news/The-gioi-web/7-cong-cu-tao-website-truc-tuyen-tot-nhat-1593/default.htm" class="linkA">7 công cụ tạo website trực tuyến tốt nhất</a></li>
+<li><a href="../../vi/news/The-gioi-web/Microsoft-Answers-Giai-dap-thac-mac-cac-phan-mem-cua-Microsoft-1579/default.htm" class="linkA">Microsoft Answers&#x3A; Giải đáp thắc mắc các phần mềm của Microsoft</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="section_04">
+<div class="section_title dark_gray clearfix">
+<div class="tabs_left arrow_ltr_dark_gray"><a href="../../vi/news/Kien-thuc-cong-nghe/default.htm" title="Kiến thức công nghệ">Kiến thức công nghệ</a></div>
+<div class="tabs_right arrow_rtl_dark_gray"><a href="../../vi/news/Thu-thuat/default.htm" title="Thủ thuật">Thủ thuật</a></div>
+</div>
+<div class="section_data_left">
+<div class="section_data_right">
+<ul class="list_news clearfix">
+<li>
+<div class="news_special clearfix">
+<div class="news_title"><a href="../../vi/news/Kien-thuc-cong-nghe/Giai-dau-the-thao-dien-tu-truc-tuyen-lon-nhat-Viet-Nam-1653/default.htm" class="mainBodyHeaderA">Giải đấu thể thao điện tử trực tuyến lớn nhất Việt Nam</a></div>    
+<div class="news_info">
+<div class="news_image"><a href="../../vi/news/Kien-thuc-cong-nghe/Giai-dau-the-thao-dien-tu-truc-tuyen-lon-nhat-Viet-Nam-1653/default.htm" class="mainBodyHeaderA"><img  class="img01 drop-shadow" src="../../files/news/thumb/300_asus_rog.jpg" alt="Giải đấu thể thao điện tử trực tuyến lớn nhất Việt Nam" align="left" border="0" vspace="2" width="116" hspace="4" /></a></div>
+<div class="news_detail">Asus ROG Championship - giải đấu Thể thao điện tử trực tuyến lớn nhất Việt Nam từ trước đến nay vừa được hai nhà đồng tổ chức Asus Việt Nam  và Garena Việt Nam  công bố. Đây là...</div>
+</div>
+</div>
+<ul class="more">
+<li><a href="../../vi/news/Kien-thuc-cong-nghe/Top-5-de-doa-an-ninh-thong-tin-duoc-chi-ra-trong-nam-2011-1618/default.htm" class="linkA">Top 5 đe dọa an ninh thông tin được chỉ ra trong năm 2011</a></li>
+<li><a href="../../vi/news/Kien-thuc-cong-nghe/5-ly-do-nen-chuyen-sang-IE9-1586/default.htm" class="linkA">5 lý do nên chuyển sang IE9</a></li>
+<li><a href="../../vi/news/Kien-thuc-cong-nghe/Khac-phuc-mot-so-loi-thuong-gap-khi-su-dung-USB-1551/default.htm" class="linkA">Khắc phục một số lỗi thường gặp khi sử dụng USB</a></li>
+</ul></li>
+<li class="last">
+<div class="news_special clearfix">
+<div class="news_title"><a href="../../vi/news/Thu-thuat/Dong-bo-hoa-thu-muc-nhieu-may-tinh-voi-o-dia-flash-USB-1654/default.htm" class="mainBodyHeaderA">Đồng bộ hóa thư mục nhiều máy tính với ổ đĩa flash USB</a></div>    
+<div class="news_info">
+<div class="news_image"><a href="../../vi/news/Thu-thuat/Dong-bo-hoa-thu-muc-nhieu-may-tinh-voi-o-dia-flash-USB-1654/default.htm" class="mainBodyHeaderA"><img  class="img01 drop-shadow" src="../../files/news/thumb/image00_2.png" alt="Đồng bộ hóa thư mục nhiều máy tính với ổ đĩa flash USB" align="left" border="0" vspace="2" width="116" hspace="4" /></a></div>
+<div class="news_detail">Vấn đề lớn đối với việc quản lý nhiều máy tính là việc lưu trữ các dữ liệu trong ổ cứng tương ứng và truy cập chúng. Hãy tưởng tượng hàng ngày bạn phải làm việc với 2 hệ thống máy...</div>
+</div>
+</div>
+<ul class="more">
+<li><a href="../../vi/news/Thu-thuat/Giau-cac-phan-vung-o-dia-trong-Windows-1651/default.htm" class="linkA">Giấu các phân vùng ổ đĩa trong Windows</a></li>
+<li><a href="../../vi/news/Thu-thuat/10-meo-nho-huu-ich-cho-cong-viec-nam-2011-1640/default.htm" class="linkA">10 mẹo nhỏ hữu ích cho công việc năm 2011</a></li>
+<li><a href="../../vi/news/Thu-thuat/Thu-thuat-lam-mo-hau-canh-cua-buc-anh-1621/default.htm" class="linkA">Thủ thuật làm mờ hậu cảnh của bức ảnh</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="news_column">
+</div>
+<div style="clear:both;">
+</div>
+&nbsp;
+</div>
+<div class="span-5">
+<div class="box silver">
+<h3 class="header"><strong>&bull;</strong>Danh mục tin</h3>
+<div class="border">
+<div id="ver_menu">
+<a href="../../vi/news/CNTT-trong-nuoc/default.htm">CNTT trong nước</a>
+<a href="../../vi/news/CNTT-quoc-te/default.htm">CNTT quốc tế</a>
+<a href="../../vi/news/Bao-mat-Hacker/default.htm">Bảo mật, Hacker</a>
+<a href="../../vi/news/Virus-Spyware/default.htm">Virus, Spyware</a>
+<a href="../../vi/news/Phan-mem/default.htm">Phần mềm</a>
+<a href="../../vi/news/Unix-Linux-Nguon-Mo/default.htm">Unix, Linux, Nguồn Mở</a>
+<a href="../../vi/news/Hoc-va-Hanh-IT/default.htm">Học và Hành IT</a>
+<a href="../../vi/news/Cau-chuyen-cong-nghe/default.htm">Câu chuyện công nghệ</a>
+<a href="../../vi/news/Mang-Internet/default.htm">Mạng, Internet</a>
+<a href="../../vi/news/The-gioi-web/default.htm">Thế giới web</a>
+<a href="../../vi/news/Kien-thuc-cong-nghe/default.htm">Kiến thức, công nghệ</a>
+<a href="../../vi/news/Thu-thuat/default.htm">Thủ thuật</a>
+<a href="../../vi/news/May-tinh-xach-tay/default.htm">Máy tính xách tay</a>
+<a href="../../vi/news/Kien-thuc-co-ban/default.htm">Kiến thức cơ bản</a>
+<a href="../../vi/news/San-pham-so/default.htm">Sản phẩm số</a>
+<a href="../../vi/news/Cong-nghe-qua-anh/default.htm">Công nghệ qua ảnh</a>
+<a href="../../vi/news/Tin-hoc-van-phong/default.htm">Tin học văn phòng</a>
+<a href="../../vi/news/Dien-thoai/default.htm">Điện thoại</a>
+</div>
+</div>
+</div>
+<div class="box silver">
+<h3 class="header"><strong>&bull;</strong>Điện thoại</h3>
+<div class="border">
+<div class="brt_new4">    
+<div class="tnd clearfix">
+<div class="left3">       
+<div class="dw170">       
+<div class="image drop-shadow">
+<img  src="../../files/news/thumb/droid.jpg" alt="" height="120" width="120" /> 
+</div>       
+<a href="../../vi/news/Dien-thoai/CTIA-2011-Sieu-di-dong-toa-sang-1637/default.htm">CTIA 2011&#x3A; Siêu di động tỏa sáng</a><br><span>CTIA, triển lãm di động lớn nhất hằng năm của Mỹ, sẽ chính thức khai cuộc từ ngày 21-24/3 tới tại...</span>       
+</div></div>
+<div class="right3">
+<div class="dw98"><div class="image drop-shadow"> 
+<img  src="../../files/news/thumb/usd.jpg" alt="" height="65" width="80" />
+</div>       
+<a href="../../vi/news/Dien-thoai/Di-dong-khong-nhay-mua-theo-USD-1623/default.htm">Di động không nhảy múa theo USD</a>       
+</div>
+<div class="dw98"><div class="image drop-shadow"> 
+<img  src="../../files/news/thumb/images484637_mobile.jpg" alt="" height="65" width="80" />
+</div>       
+<a href="../../vi/news/Dien-thoai/DTDD-vai-thang-khong-can-sac-pin-1596/default.htm">ĐTDĐ vài tháng không cần sạc pin</a>       
+</div></div></div></div>
+</div>
+</div>
+<div class="box silver">
+<h3 class="header"><strong>&bull;</strong>Tin học văn phòng</h3>
+<div class="border">
+<div class="brt_new4">    
+<div class="tnd clearfix">
+<div class="left3">       
+<div class="dw170">       
+<div class="image drop-shadow">
+<img  src="../../files/news/thumb/backup6.jpg" alt="" height="120" width="120" /> 
+</div>       
+<a href="../../vi/news/Tin-hoc-van-phong/Back-up-tai-khoan-Web-E-Mail-1650/default.htm">Back up tài khoản Web E-Mail</a><br><span>Việc nhớ backup desktop, laptop, smartphone hay máy tính bảng là một việc không hề đơn giản chút...</span>       
+</div></div>
+<div class="right3">
+<div class="dw98"><div class="image drop-shadow"> 
+<img  src="../../files/news/thumb/technize_msword-300x300.jpg" alt="" height="65" width="85" />
+</div>       
+<a href="../../vi/news/Tin-hoc-van-phong/Thu-thuat-Office-Tao-Shortcut-Context-menu-trong-MSWord-1592/default.htm">Thủ thuật Office&#x3A; Tạo Shortcut Context menu trong MSWord</a>       
+</div>
+<div class="dw98"><div class="image drop-shadow"> 
+<img  src="../../files/news/thumb/73744white_calendar_large.jpg" alt="" height="65" width="85" />
+</div>       
+<a href="../../vi/news/Tin-hoc-van-phong/Lich-desktop-kem-moi-tinh-nang-can-thiet-cho-van-phong-1575/default.htm">Lịch desktop kèm mọi tính năng cần thiết cho văn phòng</a>       
+</div></div></div></div>
+</div>
+</div>
+<div class="box silver">
+<h3 class="header"><strong>&bull;</strong>Khuyến mãi</h3>
+<div class="border">
+<div class="other_blocknews">
+<ul>
+<li class="clearfix ">
+<a href="../../vi/news/Tin-khuyen-mai/W20-Chuot-quang-ca-tinh-cho-may-tinh-xach-tay-Toshiba-1070/default.htm" title="W20 – Chuột quang cá tính cho máy tính xách tay Toshiba"><img  class="drop-shadow" src="../../files/news/thumb/wirelessopticalmouse-img0-1-1.jpg" alt="" /></a>
+<a href="../../vi/news/Tin-khuyen-mai/W20-Chuot-quang-ca-tinh-cho-may-tinh-xach-tay-Toshiba-1070/default.htm" title="W20 – Chuột quang cá tính cho máy tính xách tay Toshiba">W20 – Chuột quang cá tính cho máy tính xách tay Toshiba</a>
+</li>
+<li class="clearfix bg">
+<a href="../../vi/news/Tin-khuyen-mai/Viettel-tang-the-cao-cho-khach-mua-dien-thoai-3G-1107/default.htm" title="Viettel tặng thẻ cào cho khách mua điện thoại 3G"><img  class="drop-shadow" src="../../files/news/thumb/viettel.jpg" alt="" /></a>
+<a href="../../vi/news/Tin-khuyen-mai/Viettel-tang-the-cao-cho-khach-mua-dien-thoai-3G-1107/default.htm" title="Viettel tặng thẻ cào cho khách mua điện thoại 3G">Viettel tặng thẻ cào cho khách mua điện thoại 3G</a>
+</li>
+<li class="clearfix ">
+<a href="../../vi/news/Tin-khuyen-mai/Viettel-thay-doi-chinh-sach-gia-D-com-3G-1121/default.htm" title="Viettel thay đổi chính sách giá D-com 3G"><img  class="drop-shadow" src="../../files/news/thumb/viettel_1.jpg" alt="" /></a>
+<a href="../../vi/news/Tin-khuyen-mai/Viettel-thay-doi-chinh-sach-gia-D-com-3G-1121/default.htm" title="Viettel thay đổi chính sách giá D-com 3G">Viettel thay đổi chính sách giá D-com 3G</a>
+</li>
+<li class="clearfix bg">
+<a href="../../vi/news/Tin-khuyen-mai/Tranh-bay-khi-mua-sam-online-cuoi-nam-1212/default.htm" title="Tránh &#039;bẫy&#039; khi mua sắm online cuối năm"><img  class="drop-shadow" src="../../files/news/thumb/muasamonline.jpg" alt="" /></a>
+<a href="../../vi/news/Tin-khuyen-mai/Tranh-bay-khi-mua-sam-online-cuoi-nam-1212/default.htm" title="Tránh &#039;bẫy&#039; khi mua sắm online cuối năm">Tránh &#039;bẫy&#039; khi mua sắm online cuối năm</a>
+</li>
+<li class="clearfix ">
+<a href="../../vi/news/Tin-khuyen-mai/Laptop-Core-i5-cua-Gigabyte-tu-128-trieu-dong-1225/default.htm" title="Laptop Core i5 của Gigabyte từ 12,8 triệu đồng"><img  class="drop-shadow" src="../../files/news/thumb/nss_1292316210.jpg" alt="" /></a>
+<a href="../../vi/news/Tin-khuyen-mai/Laptop-Core-i5-cua-Gigabyte-tu-128-trieu-dong-1225/default.htm" title="Laptop Core i5 của Gigabyte từ 12,8 triệu đồng">Laptop Core i5 của Gigabyte từ 12,8 triệu đồng</a>
+</li>
+<li class="clearfix bg">
+<a href="../../vi/news/Tin-khuyen-mai/Nhon-nhip-ngay-hoi-giam-gia-san-pham-CNTT-1237/default.htm" title="Nhộn nhịp ngày hội giảm giá sản phẩm CNTT"><img  class="drop-shadow" src="../../files/news/thumb/kmai.jpg" alt="" /></a>
+<a href="../../vi/news/Tin-khuyen-mai/Nhon-nhip-ngay-hoi-giam-gia-san-pham-CNTT-1237/default.htm" title="Nhộn nhịp ngày hội giảm giá sản phẩm CNTT">Nhộn nhịp ngày hội giảm giá sản phẩm CNTT</a>
+</li>
+<li class="clearfix ">
+<a href="../../vi/news/Tin-khuyen-mai/HP-khuyen-mai-khi-mua-laptop-1250/default.htm" title="HP khuyến mại khi mua laptop"><img  class="drop-shadow" src="../../files/news/thumb/hp_pavilion.jpg" alt="" /></a>
+<a href="../../vi/news/Tin-khuyen-mai/HP-khuyen-mai-khi-mua-laptop-1250/default.htm" title="HP khuyến mại khi mua laptop">HP khuyến mại khi mua laptop</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="box silver">
+<h3 class="header"><strong>&bull;</strong>Tiêu điểm</h3>
+<div class="border">
+<div class="other_blocknews">
+<ul>
+<li class="clearfix ">
+<a href="../../vi/news/Thu-thuat/Giau-cac-phan-vung-o-dia-trong-Windows-1651/default.htm" title="Giấu các phân vùng ổ đĩa trong Windows"><img  class="drop-shadow" src="../../files/news/thumb/194519450topscret.jpg" alt="" /></a>
+<a href="../../vi/news/Thu-thuat/Giau-cac-phan-vung-o-dia-trong-Windows-1651/default.htm" title="Giấu các phân vùng ổ đĩa trong Windows">Giấu các phân vùng ổ đĩa trong Windows</a>
+</li>
+<li class="clearfix bg">
+<a href="../../vi/news/Cau-chuyen-cong-nghe/Ai-da-thua-trong-vu-ATT-mua-T-Mobile-1652/default.htm" title="Ai đã “thua” trong vụ AT&amp;T mua T-Mobile?"><img  class="drop-shadow" src="../../files/news/thumb/t-mobile.jpg" alt="" /></a>
+<a href="../../vi/news/Cau-chuyen-cong-nghe/Ai-da-thua-trong-vu-ATT-mua-T-Mobile-1652/default.htm" title="Ai đã “thua” trong vụ AT&amp;T mua T-Mobile?">Ai đã “thua” trong vụ AT&amp;T mua T-Mobile?</a>
+</li>
+<li class="clearfix ">
+<a href="../../vi/news/Kien-thuc-cong-nghe/Giai-dau-the-thao-dien-tu-truc-tuyen-lon-nhat-Viet-Nam-1653/default.htm" title="Giải đấu thể thao điện tử trực tuyến lớn nhất Việt Nam"><img  class="drop-shadow" src="../../files/news/thumb/300_asus_rog.jpg" alt="" /></a>
+<a href="../../vi/news/Kien-thuc-cong-nghe/Giai-dau-the-thao-dien-tu-truc-tuyen-lon-nhat-Viet-Nam-1653/default.htm" title="Giải đấu thể thao điện tử trực tuyến lớn nhất Việt Nam">Giải đấu thể thao điện tử trực tuyến lớn nhất Việt Nam</a>
+</li>
+<li class="clearfix bg">
+<a href="../../vi/news/Thu-thuat/Dong-bo-hoa-thu-muc-nhieu-may-tinh-voi-o-dia-flash-USB-1654/default.htm" title="Đồng bộ hóa thư mục nhiều máy tính với ổ đĩa flash USB"><img  class="drop-shadow" src="../../files/news/thumb/image00_2.png" alt="" /></a>
+<a href="../../vi/news/Thu-thuat/Dong-bo-hoa-thu-muc-nhieu-may-tinh-voi-o-dia-flash-USB-1654/default.htm" title="Đồng bộ hóa thư mục nhiều máy tính với ổ đĩa flash USB">Đồng bộ hóa thư mục nhiều máy tính với ổ đĩa flash USB</a>
+</li>
+<li class="clearfix ">
+<a href="../../vi/news/Phan-mem/BleachBit-Portable-Xoa-bo-cac-file-tam-cua-hon-70-ung-dung-trong-Windows-1655/default.htm" title="BleachBit Portable&#x3A; Xóa bỏ các file tạm của hơn 70 ứng dụng trong Windows"><img  class="drop-shadow" src="../../files/news/thumb/bleachbit-full-ml-portable-1.jpg" alt="" /></a>
+<a href="../../vi/news/Phan-mem/BleachBit-Portable-Xoa-bo-cac-file-tam-cua-hon-70-ung-dung-trong-Windows-1655/default.htm" title="BleachBit Portable&#x3A; Xóa bỏ các file tạm của hơn 70 ứng dụng trong Windows">BleachBit Portable&#x3A; Xóa bỏ các file tạm của hơn 70 ứng dụng trong Windows</a>
+</li>
+<li class="clearfix bg">
+<a href="../../vi/news/San-pham-so/Samsung-Galaxy-89-chinh-thuc-ra-mat-1656/default.htm" title="Samsung Galaxy 8.9 chính thức ra mắt"><img  class="drop-shadow" src="../../files/news/thumb/hinh-ngoai-samsung-galaxy_300.jpg" alt="" /></a>
+<a href="../../vi/news/San-pham-so/Samsung-Galaxy-89-chinh-thuc-ra-mat-1656/default.htm" title="Samsung Galaxy 8.9 chính thức ra mắt">Samsung Galaxy 8.9 chính thức ra mắt</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="span-6 last">
+<div class="box silver">
+<h3 class="header"><strong>&bull;</strong>Công nghệ qua ảnh</h3>
+<div class="border">
+<div class="brt_new5">    
+<div class="tnd">
+<div class="show1">
+<div class="image drop-shadow">
+<img  src="../../files/news/thumb/silhouette-14.jpg" alt="" height="120" width="220" />
+</div>
+<a href="../../vi/news/Cong-nghe-qua-anh/6-buoc-chup-anh-nguoc-sang-silhouette-1599/default.htm">6 bước chụp ảnh ngược sáng silhouette</a>
+</div>
+<div class="l_new1 clearfix">
+<div class="dw140">
+<div class="image drop-shadow"> 
+<img  src="../../files/news/thumb/20110303160303_ipad-2-slide.jpg" alt="" height="46" width="60" />
+</div>
+<a href="../../vi/news/Cong-nghe-qua-anh/Chiem-nguong-iPad-2-qua-anh-1559/default.htm">Chiêm ngưỡng iPad 2 qua ảnh</a>
+</div>
+<div class="dw140">
+<div class="image drop-shadow"> 
+<img  src="../../files/news/thumb/love-16.jpg" alt="" height="46" width="60" />
+</div>
+<a href="../../vi/news/Cong-nghe-qua-anh/Bo-anh-lang-man-cho-ngay-Valentine-1473/default.htm">Bộ ảnh lãng mạn cho ngày Valentine</a>
+</div></div></div></div>
+</div>
+</div>
+<div class="box silver">
+<h3 class="header"><strong>&bull;</strong>Máy tính xách tay</h3>
+<div class="border">
+<div class="brt_new2"> <div class="tnd">
+<div class="title1">
+<a href="../../vi/news/May-tinh-xach-tay/10-laptop-ban-chay-thang-22011-1646/default.htm"><b>10 laptop bán chạy tháng 2&#x002F;2011</b></a> 
+</div>    
+<div class="textnd clearfix">     
+<div class="left1"> 
+<img  src="../../files/news/thumb/5a.jpg" alt="10 laptop bán chạy tháng 2&#x002F;2011" height="113" width="120" /> 
+</div>Tháng 2 là những ngày “đen tối” của các dòng laptop Core i bởi những sản phẩm sử dụng chip Sandy Bridge đã bắt đầu xuất hiện. Tuy nhiên, thị trường sẽ trở nên...</div>
+<div class="l_new1">
+<a href="../../vi/news/May-tinh-xach-tay/Samsung-trinh-lang-laptop-mong-hon-ca-MacBook-Air-1627/default.htm">Samsung trình làng laptop mỏng hơn cả MacBook Air</a> 
+<a href="../../vi/news/May-tinh-xach-tay/Samsung-Galaxy-Tab-tiep-tuc-ha-gia-1624/default.htm">Samsung Galaxy Tab tiếp tục hạ giá</a> 
+<a href="../../vi/news/May-tinh-xach-tay/iPad-2-tai-Ha-Noi-co-gia-161-trieu-dong-1607/default.htm">iPad 2 tại Hà Nội có giá 16,1 triệu đồng</a> 
+</div></div></div>
+</div>
+</div>
+<div class="box silver">
+<h3 class="header"><strong>&bull;</strong>Tin ngẫu nhiên</h3>
+<div class="border">
+<div class="brt_new5">    
+<div class="tnd">
+<div class="show1">
+<div class="image drop-shadow">
+<img  src="../../files/news/2010_03/thumb_1269175149.nv.jpg" alt="" height="120" width="220" />
+</div>
+<a href="../../vi/news/Kien-thuc-cong-nghe/10-laptop-dinh-dam-thang-2-2010-359/default.htm">10 laptop đình đám tháng 2&#x002F;2010</a>
+</div>
+<div class="l_new1 clearfix">
+<div class="dw140">
+<div class="image drop-shadow"> 
+<img  src="../../files/news/thumb/blog.jpg" alt="" height="46" width="60" />
+</div>
+<a href="../../vi/news/Cau-chuyen-cong-nghe/Blog-dang-chet-1531/default.htm">Blog đang chết?</a>
+</div>
+<div class="dw140">
+<div class="image drop-shadow"> 
+<img  src="../../files/news/2010_05/thumb_1273639994.nv.jpg" alt="" height="46" width="60" />
+</div>
+<a href="../../vi/news/Mang-Internet/Ra-mat-website-chuong-trinh-giam-ngheo-692/default.htm">Ra mắt website chương trình giảm nghèo</a>
+</div></div></div></div>
+</div>
+</div>
+<div class="box silver">
+<h3 class="header"><strong>&bull;</strong>Sản phẩm số</h3>
+<div class="border">
+<div class="brt_new4">    
+<div class="tnd clearfix">
+<div class="left3">       
+<div class="dw170">       
+<div class="image drop-shadow">
+<img  src="../../files/news/thumb/hinh-ngoai-samsung-galaxy_300.jpg" alt="" height="120" width="120" /> 
+</div>       
+<a href="../../vi/news/San-pham-so/Samsung-Galaxy-89-chinh-thuc-ra-mat-1656/default.htm">Samsung Galaxy 8.9 chính thức ra mắt</a><br><span>Samsung vừa chính thức bóc hộp chiếc máy tính bảng Galaxy 8.9 và những thoả mãn những tưởng tượng về...</span>       
+</div></div>
+<div class="right3">
+<div class="dw98"><div class="image drop-shadow"> 
+<img  src="../../files/news/thumb/imationdefenderf200usb1gbbiometricflashdrive604326g311.jpg" alt="" height="65" width="80" />
+</div>       
+<a href="../../vi/news/San-pham-so/O-luu-tru-Flash-bao-mat-1643/default.htm">Ổ lưu trữ Flash bảo mật</a>       
+</div>
+<div class="dw98"><div class="image drop-shadow"> 
+<img  src="../../files/news/thumb/htcprime.jpg" alt="" height="65" width="80" />
+</div>       
+<a href="../../vi/news/San-pham-so/Smartphone-Kim-tu-thap-cua-HTC-xuat-hien-1631/default.htm">Smartphone &#039;Kim tự tháp&#039; của HTC xuất hiện</a>       
+</div></div></div></div>
+</div>
+</div>
+<div class="box silver">
+<h3 class="header"><strong>&bull;</strong>Bạn đọc quan tâm</h3>
+<div class="border">
+<ul class="listnews">
+<li class="clearfix">
+<a title="Biến điện thoại Android thành điểm phát sóng Wifi" href="../../vi/news/Dien-thoai/Bien-dien-thoai-Android-thanh-diem-phat-song-Wifi-1072/default.htm"><img  class="drop-shadow" src="../../files/news/thumb/android_apps.jpg" alt="Biến điện thoại Android thành điểm phát sóng Wifi" width="52" style="margin-right: 5px; float: left;" /></a>
+<a title="Biến điện thoại Android thành điểm phát sóng Wifi" href="../../vi/news/Dien-thoai/Bien-dien-thoai-Android-thanh-diem-phat-song-Wifi-1072/default.htm">Biến điện thoại Android thành điểm phát sóng Wifi</a>
+</li>
+<li class="bg clearfix">
+<a title="Lịch desktop kèm mọi tính năng cần thiết cho văn phòng" href="../../vi/news/Tin-hoc-van-phong/Lich-desktop-kem-moi-tinh-nang-can-thiet-cho-van-phong-1575/default.htm"><img  class="drop-shadow" src="../../files/news/thumb/73744white_calendar_large.jpg" alt="Lịch desktop kèm mọi tính năng cần thiết cho văn phòng" width="52" style="margin-right: 5px; float: left;" /></a>
+<a title="Lịch desktop kèm mọi tính năng cần thiết cho văn phòng" href="../../vi/news/Tin-hoc-van-phong/Lich-desktop-kem-moi-tinh-nang-can-thiet-cho-van-phong-1575/default.htm">Lịch desktop kèm mọi tính năng cần thiết cho văn phòng</a>
+</li>
+<li class="clearfix">
+<a title="Tuyệt chiêu trình diễn trong PowerPoint 2010" href="../../vi/news/Tin-hoc-van-phong/Tuyet-chieu-trinh-dien-trong-PowerPoint-2010-1390/default.htm"><img  class="drop-shadow" src="../../files/news/thumb/microsoftpowerpoint2010-wallpaper.jpg" alt="Tuyệt chiêu trình diễn trong PowerPoint 2010" width="52" style="margin-right: 5px; float: left;" /></a>
+<a title="Tuyệt chiêu trình diễn trong PowerPoint 2010" href="../../vi/news/Tin-hoc-van-phong/Tuyet-chieu-trinh-dien-trong-PowerPoint-2010-1390/default.htm">Tuyệt chiêu trình diễn trong PowerPoint 2010</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="box silver">
+<h3 class="header"><strong>&bull;</strong>Thống kê</h3>
+<div class="border">
+<div class="content online">
+<p>
+<span><img  src="images/online/users.png" width="16" height="16" alt="Đang truy cập" /></span><span>Đang truy cập :
+5</span>
+</p>
+<p>
+<span class="item"><strong>&bull;</strong>Máy chủ tìm kiếm : 1</span>
+</p>
+<p>
+<span class="item"><strong>&bull;</strong>Khách viếng thăm : 4</span>
+</p>
+<hr />
+<p>
+<span><img  src="images/online/today.png" width="16" height="16" alt="Hôm nay" />Hôm nay :
+757</span>
+</p>
+<p>
+<span><img  src="images/online/month.png" width="16" height="16" alt="Tháng hiện tại" />Tháng hiện tại
+: 757</span>
+</p>
+<p>
+<span><img  src="images/online/hits.png" width="16" height="16" alt="Tổng lượt truy cập" />Tổng lượt truy cập : <strong>327969</strong></span>
+</p>
+</div>
+</div>
+</div>
+<div class="box silver">
+<h3 class="header"><strong>&bull;</strong>Tin game</h3>
+<div class="border">
+<div class="br_nd">
+<div class="brt_new13">
+<div id="list1" class="slidenew clearfix">
+<div rel="0" class="image clearfix">
+<div class="imaged">
+<a href="../../vi/news/Game/Nha-phat-hanh-co-quyen-xoa-nhan-vat-cua-game-thu-1608/default.htm">
+<img  src="../../uploads/news/2011_03/imageviewgame.jpg" alt="" height="173" width="228" /></a>
+</div>
+<div class="nd">
+<a href="../../vi/news/Game/Nha-phat-hanh-co-quyen-xoa-nhan-vat-cua-game-thu-1608/default.htm">Nhà phát hành có quyền xoá nhân vật của game thủ?</a>
+</div></div>
+<div rel="1" class="image clearfix" style="display: none;">
+<div class="imaged">
+<a href="../../vi/news/Game/Sap-cam-dai-ly-game-tren-toan-quoc-hoat-dong-sau-22h-1514/default.htm">
+<img  src="../../uploads/news/2011_02/321.jpg" alt="" height="173" width="228" /></a>
+</div>
+<div class="nd">
+<a href="../../vi/news/Game/Sap-cam-dai-ly-game-tren-toan-quoc-hoat-dong-sau-22h-1514/default.htm">Sắp cấm đại lý game trên toàn quốc hoạt động sau 22h</a>
+</div></div>
+<div rel="2" class="image clearfix" style="display: none;">
+<div class="imaged">
+<a href="../../vi/news/Game/Tu-30-3-chan-game-online-tu-22h-8h-noi-cong-cong-1482/default.htm"><img  src="../../uploads/news/2011_02/20110216100028_games-online.jpg" alt="" height="173" width="228" /></a>
+</div>
+<div class="nd">
+<a href="../../vi/news/Game/Tu-30-3-chan-game-online-tu-22h-8h-noi-cong-cong-1482/default.htm">Từ 30-3&#x3A; chặn game online từ 22h – 8h nơi công cộng</a>
+</div></div>
+<div rel="3" class="image clearfix" style="display: none;">
+<div class="imaged">
+<a href="../../vi/news/Game/Tinh-yeu-tu-trong-game-ra-doi-that-1463/default.htm"><img  src="../../uploads/news/2011_02/tinhyeugame.jpg" alt="" height="173" width="228" /></a>
+</div>
+<div class="nd">
+<a href="../../vi/news/Game/Tinh-yeu-tu-trong-game-ra-doi-that-1463/default.htm">Tình yêu từ trong game ra đời thật</a>
+</div></div>  
+<div rel="4" class="image clearfix" style="display: none;">
+<div class="imaged">
+<a href="../../vi/news/Game/OnLive-may-choi-game-ket-noi-truc-tiep-voi-Internet-1393/default.htm"><img  src="../../uploads/news/2011_02/300_onlive_55712_screen.jpg" alt="" height="173" width="228" /></a>
+</div>
+<div class="nd">
+<a href="../../vi/news/Game/OnLive-may-choi-game-ket-noi-truc-tiep-voi-Internet-1393/default.htm">OnLive máy chơi game kết nối trực tiếp với Internet</a>
+</div></div>
+<div rel="5" class="image clearfix" style="display: none;">
+<div class="imaged">
+<a href="../../vi/news/Game/Tong-hop-cac-cong-cu-tang-toc-game-manh-nhat-2010-1197/default.htm"><img  src="../../uploads/news/2010_12/iphone_exient_x2-2010_1.jpg" alt="" height="173" width="228" /></a>
+</div>
+<div class="nd">
+<a href="../../vi/news/Game/Tong-hop-cac-cong-cu-tang-toc-game-manh-nhat-2010-1197/default.htm">Tổng hợp các công cụ tăng tốc game mạnh nhất 2010</a>
+</div></div>
+<div class="btn-content">
+<div class="left">
+<a id="left" href="javascript:"></a>
+</div>
+<div class="right">
+<a id="right" href="javascript:"></a>
+</div></div></div></div></div>
+</div>
+</div>
+</div>
+<div class="lastnew">
+<div class="lastnewtab">
+<ul class="listnew clearfix">
+<li class="active" onclick="tab_list_new(1);" id="listnew1">
+<a href="javascript:"><span>Máy tính</span></a>
+</li>
+<li id="listnew2" class="last" onclick="tab_list_new(2);">
+<a href="javascript:"><span>Điện thoại</span></a>
+</li>
+</ul></div>
+<div class="contentnew" id="contentnew1">
+<ul class="listcontent clearfix">   
+<li>
+<div class="imgnew">
+<a href="../../vi/news/May-tinh-xach-tay/10-laptop-ban-chay-thang-22011-1646/default.htm">
+<img  src="../../files/news/thumb/5a.jpg" alt="10 laptop bán chạy tháng 2/2011" width="170" height="121" /></a>
+</div>
+<a href="../../vi/news/May-tinh-xach-tay/10-laptop-ban-chay-thang-22011-1646/default.htm" class="title">10 laptop bán chạy tháng 2/2011</a><p>Tháng 2 là những ngày “đen tối” của các dòng laptop Core i bởi những sản phẩm sử dụng chip Sandy...</p>
+</li>
+<li>
+<div class="imgnew">
+<a href="../../vi/news/May-tinh-xach-tay/Acer-gioi-thieu-laptop-mang-ten-Valentino-Rossi-575/default.htm">
+<img  src="../../files/news/2010_04/thumb_1271820154.nv.jpg" alt="Acer giới thiệu laptop mang tên Valentino Rossi" width="170" height="121" /></a>
+</div>
+<a href="../../vi/news/May-tinh-xach-tay/Acer-gioi-thieu-laptop-mang-ten-Valentino-Rossi-575/default.htm" class="title">Acer giới thiệu laptop mang tên Valentino Rossi</a><p>Gateway Valentino Rossi 46 được trang trí bằng các hoa tiết và số 46 giống như trên mũ và quần áo...</p>
+</li>
+<li>
+<div class="imgnew">
+<a href="../../vi/news/May-tinh-xach-tay/039-Dap-hop-039-laptop-Timeline-X-cung-nguoi-dep-619/default.htm">
+<img  src="../../files/news/2010_04/thumb_1272465197.nv.jpg" alt="'Đập hộp' laptop Timeline X cùng người đẹp" width="170" height="121" /></a>
+</div>
+<a href="../../vi/news/May-tinh-xach-tay/039-Dap-hop-039-laptop-Timeline-X-cung-nguoi-dep-619/default.htm" class="title">'Đập hộp' laptop Timeline X cùng người đẹp</a><p>Phiên bản Acer Timeline mới nhất được kỳ vọng sẽ nối tiếp thành công của dòng laptop này tại Việt...</p>
+</li>
+<li>
+<div class="imgnew">
+<a href="../../vi/news/May-tinh-xach-tay/MSI-GX740-cho-dan-039-pro-039-859/default.htm">
+<img  src="../../files/news/2010_06/thumb_1276625554.nv.jpg" alt="MSI GX740 cho dân 'pro'" width="170" height="121" /></a>
+</div>
+<a href="../../vi/news/May-tinh-xach-tay/MSI-GX740-cho-dan-039-pro-039-859/default.htm" class="title">MSI GX740 cho dân 'pro'</a><p>Với cấu hình mạnh mẽ, GX740 có thể phục vụ tốt nhu cầu của cả game thủ, dân thiết kế đồ họa hay trở...</p>
+</li>
+<li>
+<div class="imgnew">
+<a href="../../vi/news/May-tinh-xach-tay/Thuc-te-dong-Aspire-Ethos-moi-cua-Acer-408/default.htm">
+<img  src="../../files/news/2010_04/thumb_1270131784.nv.jpg" alt="Thực tế dòng Aspire Ethos mới của Acer" width="170" height="121" /></a>
+</div>
+<a href="../../vi/news/May-tinh-xach-tay/Thuc-te-dong-Aspire-Ethos-moi-cua-Acer-408/default.htm" class="title">Thực tế dòng Aspire Ethos mới của Acer</a><p>Aspire Ethos có thiết kế và tính năng phục vụ tối đa nhu cầu giải trí nhưng giá bán khởi điểm lên...</p>
+</li>
+</ul>
+</div>
+<div style="display: none;" class="contentnew" id="contentnew2">   
+<ul class="listcontent clearfix">
+<li>
+<div class="imgnew">
+<a href="../../vi/news/Dien-thoai/Nokia-N9-ban-phim-QWERTY-tiep-tuc-ro-ri-915/default.htm"><img  src="../../files/news/2010_06/thumb_1277737714.nv.jpg" alt="10 laptop bán chạy tháng 2/2011" width="170" height="121" /></a>
+</div>
+<a href="../../vi/news/Dien-thoai/Nokia-N9-ban-phim-QWERTY-tiep-tuc-ro-ri-915/default.htm" class="title">10 laptop bán chạy tháng 2/2011</a><p>Những hình ảnh mới nhất của Nokia N9 vừa xuất hiện trên nhiều trang web. N9 sở hữu bộ bàn phím trượt...</p>
+</li>
+<li>
+<div class="imgnew">
+<a href="../../vi/news/Dien-thoai/Top-5-nha-san-xuat-di-dong-lon-nhat-the-gioi-1382/default.htm"><img  src="../../files/news/thumb/didong_3.jpg" alt="Acer giới thiệu laptop mang tên Valentino Rossi" width="170" height="121" /></a>
+</div>
+<a href="../../vi/news/Dien-thoai/Top-5-nha-san-xuat-di-dong-lon-nhat-the-gioi-1382/default.htm" class="title">Acer giới thiệu laptop mang tên Valentino Rossi</a><p>Hãng nghiên cứu thị trường IDC vừa công bố báo cáo thị trường điện thoại di động toàn cầu quý 4/2010...</p>
+</li>
+<li>
+<div class="imgnew">
+<a href="../../vi/news/Dien-thoai/Cho-thue-iPhone-4-voi-gia-dien-1139/default.htm"><img  src="../../files/news/thumb/iphone4.jpg" alt="'Đập hộp' laptop Timeline X cùng người đẹp" width="170" height="121" /></a>
+</div>
+<a href="../../vi/news/Dien-thoai/Cho-thue-iPhone-4-voi-gia-dien-1139/default.htm" class="title">'Đập hộp' laptop Timeline X cùng người đẹp</a><p>Dịch vụ cho thuê ĐTDĐ đã xuất hiện vài năm nay, nhưng chỉ là loại máy giá rẻ. Vì thế, việc “bỗng...</p>
+</li>
+<li>
+<div class="imgnew">
+<a href="../../vi/news/Dien-thoai/6-smartphone-moi-duoc-cho-don-trong-nam-2010-435/default.htm"><img  src="../../files/news/2010_04/thumb_1270538772.nv.jpg" alt="MSI GX740 cho dân 'pro'" width="170" height="121" /></a>
+</div>
+<a href="../../vi/news/Dien-thoai/6-smartphone-moi-duoc-cho-don-trong-nam-2010-435/default.htm" class="title">MSI GX740 cho dân 'pro'</a><p>Sau Sony Ericsson Xpreria X10, HTC Legend, Samsung Wave..., thị trường tiếp tục háo hức với những...</p>
+</li>
+<li>
+<div class="imgnew">
+<a href="../../vi/news/Dien-thoai/MotorBlur-thu-hut-937/default.htm"><img  src="../../files/news/2010_07/thumb_1278088609.nv.jpeg.jpg" alt="Thực tế dòng Aspire Ethos mới của Acer" width="170" height="121" /></a>
+</div>
+<a href="../../vi/news/Dien-thoai/MotorBlur-thu-hut-937/default.htm" class="title">Thực tế dòng Aspire Ethos mới của Acer</a><p>Hai điện thoại Android với giao diện MotoBlur của Motorola chú trọng dịch vụ mạng xã hội. Mùa thu...</p>
+</li>
+</ul></div></div></div>
+</div> <div class="B_usertools part clearfix">
+<div class="left"> &nbsp; </div>
+<div class="right"> 
+<ul class="clearfix">
+<li> <a href="default.htm" class="home">Đặt làm trang chủ</a> </li>
+<li> <a href="default.htm" class="rss">Kênh tin RSS </a> </li>
+<li> <a href="../../vi/news/default.htm" class="mobile">Tin tức công nghệ</a> </li>
+<li> <a href="../../../www.eximbank.com.vn/WebsiteExrate1/ExchangeRate_vn.aspx" target="_blank" class="nt_gv">Giá vàng - Ngoại tệ</a> </li>
+<li> <a href="../../../vtv.vn/LichPS/Index" target="_blank" class="ltv">Lịch TV - Truyền hình</a> </li>
+<li> <a href="../../../www.nchmf.gov.vn/web/vi-VN/43/Default.aspx" target="_blank" class="dbtt">Dự báo thời tiết</a> </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="partc">
+<div class="partc">
+<div class="footer">
+<div class="line_b1 clearfix">
+<div class="left1"><a href="../../default.htm" class="vtc">Về trang chủ</a></div>
+<div class="center"> 
+<a href="../../vi/contact/default.htm"> Liên hệ - Contact </a> | 
+<a href="../../vi/download/default.htm"> Tải files </a>  |  
+<a href="../../vi/news/Phan-mem/default.htm">Phần mềm</a>  |  
+<a href="../../vi/news/Thu-thuat/default.htm">Thủ thuật</a>  |  
+<a href="../../vi/weblinks/default.htm">Liên kết Website</a>  |  
+<a href="../../vi/users/default.htm">Thành viên</a></div>
+<div class="right1"> <a href="#top" class="dt"> Đầu trang </a>
+</div>
+</div>
+<div class="line_b2"><br>
+Website đang chạy thử nghiệm chờ giấy phép hoạt động của Bộ Thông tin và Truyền thông<br>
+Chịu trách nhiệm nội dung: Minh Thành - <br>
+Yêu cầu nghi rõ nguồn www.thanhcntt.com khi khi sử dụng thông tin từ TIN CÔNG NGHỆ<br>
+Powered by <a title="NukeViet" href="../../../nukeviet.vn/default.htm">Nukeviet</a></div>
+</div>
+</div>
+</div>
+</div>
+<div id="run_cronjobs" style="visibility: hidden; display: none;">
+<img  alt="" title="" src="../../index.php@second=cronjobs&p=Lpwclleb" width="1" height="1" />
+</div> 
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+nv_DigitalClock('digclock');
+//]]>
+</script>
+<script type="text/javascript" src="../../js/mudim.js"></script></body>
+</html> 
