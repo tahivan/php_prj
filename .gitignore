@@ -1,0 +1,7 @@
+/dbs/db_config.php
+/data/config_global.php
+/cache
+/logs
+/sess
+/.idea
+/data/diagnostic-dulich.local.xml
